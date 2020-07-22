@@ -1,0 +1,18 @@
+
+  <h1>Frete </h1>
+
+
+  Cep: <%= params[:zipcode] %><p>
+  Cidade: <%= params[:address]["city"] %><p>
+  Estado: <%= params[:address]["state"] %><p>
+  Bairro: <%= params[:address]["district"] %><p>
+  Endereço: <%= params[:address]["address"] %><p>
+  
+
+
+
+<%= @pac %>
+<%= @sedex %>
+
+
+<%= link_to "Voltar", root_path%>

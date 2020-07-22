@@ -11,4 +11,5 @@ class PowerGeneratorsController < ApplicationController
   def show
     @power_generators = PowerGenerator.find(params[:id])
   end
+
 end
