@@ -44,11 +44,11 @@
     <% end %>
   </div>
 <%# CONFIGURAÇÃO QUE MOSTRA TODOS GERADORES NO INDEX %>
-  <div class="containerCards" >
+  <div class="container">
     <% @power_generators.each do |power_generator| %>
-      <div class="row">
-	    	<div class="col-12 p-0">
-          <div class="card-projetos m-0">
+      <div class="row m-0">
+        <div class="col-2">
+          <div class="card-projetos">
             <div class="card-body">
                 <%= link_to power_generator_path(power_generator.id) do   %>
               
