@@ -21,7 +21,7 @@ gem 'jquery-rails'
 gem 'pg_search'
 gem 'correios-frete'
 gem "httparty", "~> 0.17.3"
-
+gem "bootstrap"
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
