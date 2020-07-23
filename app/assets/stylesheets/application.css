@@ -41,6 +41,7 @@
   text-shadow: 0 0 10px rgba(0,0,0,0.7);
   grid-row-gap: 5px;
   margin-left: 70px;
+  
 } 
 
 
@@ -89,7 +90,12 @@ p.power_generator-card__price {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 180px;
+  height: 450px;
+  background-image:url('sun-20.gif');
+  background-size:100%;
+  /* background-repeat: repeat-y; */
+  /* background-attachment: fixed; */
+  width:100%;
   
 }
 
@@ -98,7 +104,7 @@ p.power_generator-card__price {
   font-size: 60px;
   color: #000;
   text-align: center;
-  margin-left: 46%;
+  margin-left: 20%;
 }
 
 .gradient {
@@ -112,6 +118,7 @@ p.power_generator-card__price {
   margin-left: 200px;
 }
 
+
 .searcher {
   margin-top: 20px;
   display: flex;
@@ -119,7 +126,10 @@ p.power_generator-card__price {
   /* margin-left: 100px; */
   border-radius: 10px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
-  width: 100%;
+  margin-bottom: 20px;
+
+ 
+ 
 }
 
 .searcher__radio {
@@ -211,4 +221,9 @@ p.power_generator-card__price {
   padding: -2rem;
   max-width: 250px;
   
+}
+
+a:link {
+  text-decoration:none;
+  color: black;
 }

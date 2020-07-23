@@ -15656,3 +15656,1565 @@ Processing by PowerGeneratorsController#index as HTML
 Completed 200 OK in 46ms (Views: 43.7ms | ActiveRecord: 1.0ms)
 
 
+Started GET "/" for ::1 at 2020-07-23 17:43:55 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/andre/.rvm/gems/ruby-2.6.3/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (2.3ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (1938.1ms)
+Completed 200 OK in 1983ms (Views: 1967.9ms | ActiveRecord: 8.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:44:04 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 42ms (Views: 39.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:44:52 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 385ms (Views: 382.5ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:45:05 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.1ms)
+Completed 200 OK in 360ms (Views: 357.8ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:45:20 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 48ms (Views: 46.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:45:38 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.3ms)
+Completed 200 OK in 59ms (Views: 57.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:46:02 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (35.2ms)
+Completed 200 OK in 361ms (Views: 359.2ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:46:14 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.4ms)
+Completed 200 OK in 386ms (Views: 383.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:46:33 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.8ms)
+Completed 200 OK in 59ms (Views: 57.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:46:49 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.6ms)
+Completed 200 OK in 390ms (Views: 387.7ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:47:06 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (21.8ms)
+Completed 200 OK in 411ms (Views: 409.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:47:22 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (36.1ms)
+Completed 200 OK in 70ms (Views: 66.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:47:47 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (31.1ms)
+Completed 200 OK in 411ms (Views: 408.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:47:55 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.4ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (32.4ms)
+Completed 200 OK in 63ms (Views: 59.6ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:48:20 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (65.7ms)
+Completed 200 OK in 380ms (Views: 378.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:49:01 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (32.8ms)
+Completed 200 OK in 371ms (Views: 369.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:49:08 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (20.8ms)
+Completed 200 OK in 368ms (Views: 365.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:49:15 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (26.7ms)
+Completed 200 OK in 357ms (Views: 355.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:49:23 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (37.8ms)
+Completed 200 OK in 352ms (Views: 350.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:49:48 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (27.9ms)
+Completed 200 OK in 414ms (Views: 411.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:04 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.2ms)
+Completed 200 OK in 373ms (Views: 370.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:11 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (30.3ms)
+Completed 200 OK in 429ms (Views: 426.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:17 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 361ms (Views: 359.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:28 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 316ms (Views: 314.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:35 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 345ms (Views: 343.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:42 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (33.8ms)
+Completed 200 OK in 343ms (Views: 341.4ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:50 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (25.8ms)
+Completed 200 OK in 356ms (Views: 353.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:50:57 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.2ms)
+Completed 200 OK in 347ms (Views: 344.7ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:51:04 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (37.4ms)
+Completed 200 OK in 362ms (Views: 359.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:51:31 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (33.1ms)
+Completed 200 OK in 369ms (Views: 367.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:51:40 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (33.8ms)
+Completed 200 OK in 304ms (Views: 302.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:51:47 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (21.0ms)
+Completed 200 OK in 41ms (Views: 39.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:53:11 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (22.9ms)
+Completed 200 OK in 299ms (Views: 297.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:53:21 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.3ms)
+Completed 200 OK in 427ms (Views: 425.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:53:40 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (22.7ms)
+Completed 200 OK in 381ms (Views: 379.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:55:29 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (31.1ms)
+Completed 200 OK in 377ms (Views: 374.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:56:02 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (20.4ms)
+Completed 200 OK in 322ms (Views: 320.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:56:27 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (31.6ms)
+Completed 200 OK in 82ms (Views: 80.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:56:52 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.1ms)
+Completed 200 OK in 329ms (Views: 326.9ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:58:34 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (40.6ms)
+Completed 200 OK in 422ms (Views: 419.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:59:17 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (29.5ms)
+Completed 200 OK in 378ms (Views: 374.9ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:59:28 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (21.7ms)
+Completed 200 OK in 81ms (Views: 40.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 17:59:35 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.4ms)
+Completed 200 OK in 359ms (Views: 356.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:00:06 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 333ms (Views: 331.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:00:45 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.4ms)
+Completed 200 OK in 409ms (Views: 406.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:01:00 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.2ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.6ms)
+Completed 200 OK in 44ms (Views: 41.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:01:16 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (24.3ms)
+Completed 200 OK in 396ms (Views: 394.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:08:59 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (1262.9ms)
+Completed 200 OK in 1329ms (Views: 1326.2ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:11:54 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (987.8ms)
+Completed 200 OK in 1064ms (Views: 1062.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:13:19 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (968.9ms)
+Completed 200 OK in 1048ms (Views: 1045.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:14:15 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (30.2ms)
+Completed 200 OK in 54ms (Views: 51.9ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:15:12 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (26.3ms)
+Completed 200 OK in 378ms (Views: 376.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:15:34 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (39.3ms)
+Completed 200 OK in 71ms (Views: 68.8ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:15:55 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (33.8ms)
+Completed 200 OK in 365ms (Views: 362.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:16:08 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (28.2ms)
+Completed 200 OK in 404ms (Views: 402.8ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:16:36 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 338ms (Views: 336.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:16:51 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (35.6ms)
+Completed 200 OK in 367ms (Views: 364.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:16:58 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (37.6ms)
+Completed 200 OK in 326ms (Views: 324.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:17:10 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (2.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 390ms (Views: 386.8ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:17:47 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (35.0ms)
+Completed 200 OK in 59ms (Views: 57.1ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:18:52 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (45.5ms)
+Completed 200 OK in 458ms (Views: 455.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:19:15 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (26.1ms)
+Completed 200 OK in 405ms (Views: 403.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:19:26 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.2ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (32.9ms)
+Completed 200 OK in 415ms (Views: 412.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:19:38 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:21:04 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.4ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (37.0ms)
+Completed 200 OK in 491ms (Views: 488.8ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:21:20 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (33.6ms)
+Completed 200 OK in 59ms (Views: 57.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:21:38 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (50.4ms)
+Completed 200 OK in 92ms (Views: 89.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:22:01 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.2ms)
+Completed 200 OK in 102ms (Views: 98.7ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:28:36 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (27.7ms)
+Completed 200 OK in 459ms (Views: 457.0ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:29:13 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (34.6ms)
+Completed 200 OK in 58ms (Views: 56.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:29:32 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (33.6ms)
+Completed 200 OK in 353ms (Views: 350.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:29:49 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (36.8ms)
+Completed 200 OK in 365ms (Views: 362.3ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:30:01 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.3ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (40.8ms)
+Completed 200 OK in 405ms (Views: 403.0ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:30:16 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (25.8ms)
+Completed 200 OK in 360ms (Views: 357.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:30:30 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (22.4ms)
+Completed 200 OK in 357ms (Views: 355.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:30:51 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (26.9ms)
+Completed 200 OK in 357ms (Views: 355.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:31:20 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (30.6ms)
+Completed 200 OK in 436ms (Views: 434.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:32:53 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (30.3ms)
+Completed 200 OK in 50ms (Views: 47.8ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:35:02 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (33.4ms)
+Completed 200 OK in 57ms (Views: 54.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:35:19 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.3ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (35.8ms)
+Completed 200 OK in 410ms (Views: 407.8ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:35:33 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 57ms (Views: 54.2ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:35:43 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (60.6ms)
+Completed 200 OK in 84ms (Views: 82.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:36:04 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (36.1ms)
+Completed 200 OK in 60ms (Views: 57.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:36:14 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (26.5ms)
+Completed 200 OK in 46ms (Views: 43.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:36:39 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (2.2ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (27.6ms)
+Completed 200 OK in 320ms (Views: 317.0ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:36:52 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (35.6ms)
+Completed 200 OK in 479ms (Views: 477.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:37:16 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.3ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (27.5ms)
+Completed 200 OK in 314ms (Views: 311.8ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:37:24 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (28.5ms)
+Completed 200 OK in 372ms (Views: 369.7ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:37:30 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (28.1ms)
+Completed 200 OK in 46ms (Views: 43.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:37:43 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 399ms (Views: 397.1ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:38:00 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.5ms)
+Completed 200 OK in 58ms (Views: 55.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:38:15 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (33.8ms)
+Completed 200 OK in 359ms (Views: 357.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:38:30 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 338ms (Views: 335.9ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:38:43 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (27.0ms)
+Completed 200 OK in 383ms (Views: 380.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:38:50 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (6.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (40.1ms)
+Completed 200 OK in 356ms (Views: 348.0ms | ActiveRecord: 6.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:44:08 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (931.4ms)
+Completed 200 OK in 1000ms (Views: 998.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:44:40 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (29.5ms)
+Completed 200 OK in 394ms (Views: 391.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:45:28 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  Rendered power_generators/index.html.erb within layouts/application (13.0ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (The asset "sun-25.png" is not present in the asset pipeline.):
+    4: <div>
+    5:   <div class="header">
+    6:     <div class="logo"><%= image_tag 'port.png' %></div>
+    7:       <div class="logo1"><%= image_tag 'sun-25.png' %></div>
+    8:     <div class="header__title">Geradores de Energia</div>
+    9:   </div>
+   10: 
+  
+app/views/power_generators/index.html.erb:7:in `_app_views_power_generators_index_html_erb___1096308678435078352_70088117755520'
+Started GET "/" for ::1 at 2020-07-23 18:45:37 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (28.3ms)
+Completed 200 OK in 51ms (Views: 49.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:46:12 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (26.8ms)
+Completed 200 OK in 453ms (Views: 450.2ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:46:23 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (27.9ms)
+Completed 200 OK in 497ms (Views: 494.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:46:53 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (36.1ms)
+Completed 200 OK in 60ms (Views: 58.5ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:47:07 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 334ms (Views: 332.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:48:19 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (35.0ms)
+Completed 200 OK in 408ms (Views: 406.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:48:21 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (24.1ms)
+Completed 200 OK in 44ms (Views: 41.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:50:25 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.3ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (40.1ms)
+Completed 200 OK in 64ms (Views: 61.2ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:50:58 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (38.1ms)
+Completed 200 OK in 477ms (Views: 474.8ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:51:10 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (32.6ms)
+Completed 200 OK in 463ms (Views: 460.8ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:51:19 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 330ms (Views: 328.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:51:35 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.2ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (37.0ms)
+Completed 200 OK in 373ms (Views: 369.7ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:51:43 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (26.4ms)
+Completed 200 OK in 323ms (Views: 321.3ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:51:57 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (4.2ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (38.5ms)
+Completed 200 OK in 346ms (Views: 341.1ms | ActiveRecord: 4.2ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:53:20 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:51
+  Rendered power_generators/index.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 53ms (Views: 50.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/sun-25.gif" for ::1 at 2020-07-23 18:53:21 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/sun-25.gif"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/sun-25.gif" for ::1 at 2020-07-23 18:53:24 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/sun-25.gif"):
+  
+actionpack (5.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.3) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.3) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.3) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.3) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.3) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.2.3) lib/rails/engine.rb:524:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-07-23 18:54:44 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  Rendered power_generators/index.html.erb within layouts/application (1.4ms)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/home/andre/code/andrealvesdeaguiar/portal-solar-dev-test/app/views/power_generators/index.html.erb:6: syntax error, unexpected tIDENTIFIER, expecting ')'
+...=( image_tag 'sun-25.gif' width="320" height="205" );@output...
+...                          ^~~~~
+/home/andre/code/andrealvesdeaguiar/portal-solar-dev-test/app/views/power_generators/index.html.erb:6: syntax error, unexpected tIDENTIFIER, expecting ')'
+...'sun-25.gif' width="320" height="205" );@output_buffer.safe_...
+...                         ^~~~~~):
+  
+app/views/power_generators/index.html.erb:6: syntax error, unexpected tIDENTIFIER, expecting ')'
+app/views/power_generators/index.html.erb:6: syntax error, unexpected tIDENTIFIER, expecting ')'
+Started GET "/" for ::1 at 2020-07-23 18:55:18 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 58ms (Views: 56.3ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:55:55 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (27.7ms)
+Completed 200 OK in 408ms (Views: 405.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:56:09 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (34.7ms)
+Completed 200 OK in 437ms (Views: 435.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:57:21 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 378ms (Views: 375.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:57:38 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (63.0ms)
+Completed 200 OK in 88ms (Views: 85.9ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:58:33 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (23.4ms)
+Completed 200 OK in 316ms (Views: 314.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 18:59:55 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.7ms)
+Completed 200 OK in 394ms (Views: 391.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:00:22 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.4ms)
+Completed 200 OK in 391ms (Views: 389.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:02:26 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (37.3ms)
+Completed 500 Internal Server Error in 334ms (ActiveRecord: 1.1ms)
+
+
+  
+ActionView::Template::Error (CssSyntaxError: /home/andre/code/andrealvesdeaguiar/portal-solar-dev-test/app/assets/stylesheets/application.css:94:3: Unknown word
+
+  92 |   align-items: center;
+  93 |   height: 180px;
+> 94 |   <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/c3HczzhNAceOI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/solar-c3HczzhNAceOI">via GIPHY</a></p>
+     |   ^
+  95 |   
+  96 | }
+):
+    4:     <title>Portal Solar - Dev Test</title>
+    5:     <%= csrf_meta_tags %>
+    6:     <%= favicon_link_tag 'favicon.png' %>
+    7:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <%= javascript_pack_tag 'application' %>
+   10:   </head>
+  
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb__1400697918937256267_70088118348640'
+Started GET "/" for ::1 at 2020-07-23 19:03:07 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (34.4ms)
+Completed 200 OK in 388ms (Views: 385.1ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:03:59 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 311ms (Views: 308.7ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:05:29 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (35.6ms)
+Completed 200 OK in 362ms (Views: 359.8ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:05:59 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (34.5ms)
+Completed 200 OK in 59ms (Views: 56.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:06:27 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:48
+  Rendered power_generators/index.html.erb within layouts/application (26.8ms)
+Completed 200 OK in 395ms (Views: 393.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:07:24 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (29.5ms)
+Completed 200 OK in 50ms (Views: 47.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:07:27 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:50
+  Rendered power_generators/index.html.erb within layouts/application (30.7ms)
+Completed 200 OK in 51ms (Views: 48.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:08:37 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (23.9ms)
+Completed 200 OK in 399ms (Views: 397.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:08:44 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (50.8ms)
+Completed 200 OK in 71ms (Views: 68.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:09:09 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (26.9ms)
+Completed 200 OK in 403ms (Views: 401.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:10:28 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.4ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 455ms (Views: 451.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:10:41 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 390ms (Views: 387.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:10:49 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (23.5ms)
+Completed 200 OK in 45ms (Views: 43.0ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:11:10 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (44.6ms)
+Completed 200 OK in 370ms (Views: 368.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:11:33 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (36.0ms)
+Completed 200 OK in 391ms (Views: 389.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:11:56 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (34.0ms)
+Completed 200 OK in 393ms (Views: 390.2ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:12:25 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (40.1ms)
+Completed 200 OK in 457ms (Views: 454.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:13:11 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (40.5ms)
+Completed 200 OK in 444ms (Views: 440.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:13:43 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (73.9ms)
+Completed 200 OK in 467ms (Views: 464.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:14:03 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (33.3ms)
+Completed 200 OK in 335ms (Views: 333.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:14:24 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (34.2ms)
+Completed 200 OK in 354ms (Views: 352.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:14:40 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (2.4ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (36.4ms)
+Completed 200 OK in 61ms (Views: 56.9ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:15:45 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.7ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (21.9ms)
+Completed 200 OK in 372ms (Views: 370.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:17:32 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (19.9ms)
+Completed 200 OK in 444ms (Views: 442.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:17:51 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (3.5ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (38.7ms)
+Completed 200 OK in 360ms (Views: 355.6ms | ActiveRecord: 3.5ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:18:16 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 399ms (Views: 397.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:22:21 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (26.7ms)
+Completed 200 OK in 355ms (Views: 353.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:27:26 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (38.5ms)
+Completed 200 OK in 507ms (Views: 504.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:27:45 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.9ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (37.1ms)
+Completed 200 OK in 491ms (Views: 489.2ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:28:17 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (2.4ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (38.3ms)
+Completed 200 OK in 61ms (Views: 57.1ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:29:27 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (28.8ms)
+Completed 200 OK in 382ms (Views: 379.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:30:25 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.8ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (36.0ms)
+Completed 200 OK in 440ms (Views: 437.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:30:46 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (27.2ms)
+Completed 200 OK in 400ms (Views: 397.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:31:55 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (28.7ms)
+Completed 200 OK in 407ms (Views: 404.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:32:20 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.2ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (34.3ms)
+Completed 200 OK in 416ms (Views: 413.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:32:49 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.0ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (36.8ms)
+Completed 200 OK in 456ms (Views: 454.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:33:10 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (0.6ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (27.3ms)
+Completed 200 OK in 517ms (Views: 515.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:33:39 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (61.2ms)
+Completed 200 OK in 518ms (Views: 515.1ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2020-07-23 19:33:57 -0300
+Processing by PowerGeneratorsController#index as HTML
+  Rendering power_generators/index.html.erb within layouts/application
+  [1m[36mPowerGenerator Load (1.1ms)[0m  [1m[34mSELECT "power_generators".* FROM "power_generators"[0m
+  ↳ app/views/power_generators/index.html.erb:49
+  Rendered power_generators/index.html.erb within layouts/application (38.3ms)
+Completed 200 OK in 434ms (Views: 431.1ms | ActiveRecord: 1.1ms)
+
+
