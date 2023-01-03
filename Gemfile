@@ -20,7 +20,7 @@ gem "roo", "~> 2.8.0"
 gem 'jquery-rails'
 gem 'pg_search'
 gem 'correios-frete'
-gem "httparty", "~> 0.17.3"
+gem "httparty", "~> 0.21.0"
 gem "bootstrap"
 gem 'font-awesome-rails'
 
